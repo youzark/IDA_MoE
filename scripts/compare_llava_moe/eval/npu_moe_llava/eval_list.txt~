@@ -1,0 +1,25 @@
+# Format: base_path|model_name|dataset
+# Lines starting with # are comments
+# Supported datasets: pope, mme, mmvet, gqa, sqa, textvqa, vizwiz
+
+#/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-moe-normal_0.01|mmvet
+#/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-moe-sharpen_0.1|mmvet
+#/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-moe-sharpen_0.2|mmvet
+#/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-moe-sharpen_0.8|mmvet
+#/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-moe-sharpen_1|mmvet
+/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-org-moe-sharpen_0.2|mmvet
+
+
+#/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-moe-sharpen_0.2|mme
+/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-org-moe-sharpen_0.2|mme
+
+#/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-moe-normal_0.01|gqa
+/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-org-moe-sharpen_0.2|gqa
+
+#/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-moe-normal_0.01|sqa
+#/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-moe-sharpen_0.1|mmvet
+#/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-moe-sharpen_0.2|mmvet
+#/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-moe-sharpen_0.8|mmvet
+#/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-moe-sharpen_1|mmvet
+
+/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/compare_llava_moe|llavaqwen-1.8b-finetune-org-moe-sharpen_0.2|pope

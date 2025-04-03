@@ -1,0 +1,131 @@
+accelerate==1.1.1
+aiofiles==24.1.0
+aiohappyeyeballs==2.3.5
+aiohttp==3.10.3
+aiosignal==1.3.1
+annotated-types==0.7.0
+anyio==4.6.2.post1
+ascendebug @ file:///usr/local/Ascend/ascend-toolkit/8.0.RC2/toolkit/tools/ascendebug-0.1.0-py3-none-any.whl#sha256=7ecb8db90b119acd3cfac0491ca7628606b284a12e592ccc345d4619bff41262
+ascendie @ file:///usr/local/Ascend/mindie/temp/mindie-rt/1.0.RC2/bin/ascendie-1.0rc2-py3-none-any.whl#sha256=f673e01f312c38ec83154852baac18d274e6d536b83d4e926b53039c91a6088f
+async-timeout==4.0.3
+attrs==24.2.0
+auto-tune @ file:///root/selfgz769627645/compiler/lib64/auto_tune-0.1.0-py3-none-any.whl#sha256=b6025db4b3af3ca016237303ae4222224092d50e032c7b5d2641a2b0456fc9b0
+certifi==2022.12.7
+charset-normalizer==2.1.1
+click==8.1.7
+contourpy==1.2.1
+cycler==0.12.1
+Cython==3.0.11
+dataflow @ file:///root/selfgz769627645/compiler/lib64/dataflow-0.0.1-py3-none-any.whl#sha256=5feeb0e977df66192221d2dd6095da87d92d492b9434b217d69bde5548d0c9ae
+datasets==2.20.0
+decorator==5.1.1
+deepspeed==0.16.2
+dill==0.3.8
+distro==1.9.0
+einops==0.8.0
+et_xmlfile==2.0.0
+exceptiongroup==1.2.2
+fastapi==0.115.5
+filelock==3.13.1
+fonttools==4.53.1
+frozenlist==1.4.1
+fsspec==2024.2.0
+h11==0.14.0
+hccl @ file:///root/selfgz2261631771/hccl/lib64/hccl-0.1.0-py3-none-any.whl#sha256=351a294f7d6cfdd55bdc11645f87d9996f4a38c8783d0042014a1c33f37f799c
+hccl-parser @ file:///usr/local/Ascend/ascend-toolkit/8.0.RC2/toolkit/tools/hccl_parser-0.1-py3-none-any.whl#sha256=68c4fcbbf84918e2ca859fda48715333b6546e5fbac2c2bccf899a88e6463ff4
+hjson==3.1.0
+httpcore==1.0.7
+httpx==0.28.1
+huggingface-hub==0.26.3
+idna==3.4
+infer-engine @ file:///usr/local/Ascend/mindie/temp/mindie-service/1.0.RC2/bin/infer_engine-0.0.1-py3-none-any.whl#sha256=b8fdea0d01da533e3f09dc3423634d55fd89141064d7a65cbb50ac8fcd7a14ab
+Jinja2==3.1.3
+jiter==0.8.2
+joblib==1.4.2
+kiwisolver==1.4.5
+linkify-it-py==2.0.3
+llm-datadist @ file:///root/selfgz769627645/compiler/lib64/llm_datadist-0.0.1-py3-none-any.whl#sha256=0cfd387957d1e891237f3e40a10d8e1820e9d3f7138189f45f237e76e7ccd18a
+llm-engine @ file:///root/selfgz769627645/compiler/lib64/llm_engine-0.0.1-py3-none-any.whl#sha256=ad7bcebf9d2130f711bcde25b6ac32b1a400c1dd0232852d76ca87d2172da76b
+loguru==0.7.2
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+matplotlib==3.9.2
+mdit-py-plugins==0.4.2
+mdurl==0.1.2
+mies-tokenizer @ file:///usr/local/Ascend/mindie/temp/mindie-service/1.0.RC2/bin/mies_tokenizer-0.0.1-py3-none-any.whl#sha256=2b4527fa78b4bf4a77ce52315adf69b32d7a4364180fb2f1f3ceff3e8158277f
+mindie-llm @ file:///usr/local/Ascend/mindie/temp/mindie_llm/1.0.RC2/bin/mindie_llm-1.0rc2-py3-none-any.whl#sha256=6ab6538d80c141112f495cd753eecb94eaeb76cf185e0ed9b99e4a97bfe24fa0
+mindiebenchmark @ file:///usr/local/Ascend/mindie/temp/mindie-service/1.0.RC2/bin/mindiebenchmark-1.0rc2-py3-none-any.whl#sha256=27ed80c3cf18775e27fb11dc3a9373832909960154894fae3f37a70dd42c6df2
+mindieclient @ file:///usr/local/Ascend/mindie/temp/mindie-service/1.0.RC2/bin/mindieclient-1.0rc2-py3-none-any.whl#sha256=edc3a1dde36508aaaa9925d6b4fe82568bb982402effe61c8a8c5efccd86cf55
+mindietorch @ file:///root/selfgz13168027182/Ascend-mindie-torch-1.0.RC2-linux-x86_64/mindietorch-1.0rc2%2Btorch2.1.0.abi0-cp310-cp310-linux_x86_64.whl#sha256=18fefe8dbedb331d42188b504ce8f3c9862d64519e082209292e297a065054ed
+model-wrapper @ file:///usr/local/Ascend/mindie/temp/mindie-service/1.0.RC2/bin/model_wrapper-0.0.1-py3-none-any.whl#sha256=12f8325229646408c1ee7aa7bf67acd7aff43b54079bc4b7e93741a19deb380b
+mpmath==1.3.0
+msadvisor @ file:///usr/local/Ascend/ascend-toolkit/8.0.RC2/tools/msadvisor/python/msadvisor-1.0.0-cp37-abi3-linux_x86_64.whl#sha256=cfcae1a7d8b283f034aa8848dd38044a4499ceebd769815422e027c3318ef725
+msgpack==1.1.0
+multidict==6.0.5
+multiprocess==0.70.16
+networkx==3.2.1
+ninja==1.11.1.1
+numpy==1.26.3
+nvidia-ml-py==12.555.43
+op-compile-tool @ file:///root/selfgz769627645/compiler/lib64/op_compile_tool-0.1.0-py3-none-any.whl#sha256=bf38302e51c565baf7eb558edba734c8f4772be88d2369d7da4f97cd0220e798
+op-gen @ file:///usr/local/Ascend/ascend-toolkit/8.0.RC2/toolkit/tools/op_gen-0.1-py3-none-any.whl#sha256=01fcdd9db249675d688ac2b18d3d9d5a70ed228c2e50dec1b502ae6975a4bdca
+op-test-frame @ file:///usr/local/Ascend/ascend-toolkit/8.0.RC2/toolkit/tools/op_test_frame-0.1-py3-none-any.whl#sha256=a76965450355a492222560a02473dac829c45319f8bb84c0232c0247e5919375
+opc-tool @ file:///root/selfgz769627645/compiler/lib64/opc_tool-0.1.0-py3-none-any.whl#sha256=e89d6bb9d4c8a29f472c530e1a4cec1d7da072c920bae8887e7fcd6c895a586b
+openai==0.28.0
+opencv-python==4.10.0.84
+openpyxl==3.1.5
+packaging==24.1
+pandas==2.2.2
+peft==0.13.2
+pillow==10.2.0
+platformdirs==4.3.6
+protobuf==5.27.3
+psutil==6.0.0
+py-cpuinfo==9.0.0
+pyarrow==17.0.0
+pyarrow-hotfix==0.6
+pybind11==2.13.1
+pydantic==2.8.2
+pydantic_core==2.20.1
+Pygments==2.18.0
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+pytz==2024.1
+PyYAML==6.0.2
+regex==2024.7.24
+requests==2.32.3
+rich==13.9.4
+safetensors==0.4.4
+schedule-search @ file:///root/selfgz769627645/compiler/lib64/schedule_search-0.1.0-py3-none-any.whl#sha256=e4d0bae65bb32f7b0fbf75c5c6c503355a651c72b143f1a6ce06b3afe77f4a7d
+scikit-learn==1.5.2
+scipy==1.14.0
+sentencepiece==0.2.0
+shortuuid==1.0.13
+six==1.16.0
+sniffio==1.3.1
+starlette==0.41.3
+sympy==1.12
+tabulate==0.9.0
+te @ file:///root/selfgz769627645/compiler/lib64/te-0.4.0-py3-none-any.whl#sha256=840b12715b645e39c1299dd72ca59dabaaa059bb8ccf82a71a75f729167bc2fa
+tensorboardX==2.6.2.2
+termcolor==2.4.0
+textual==0.88.1
+threadpoolctl==3.5.0
+tiktoken==0.7.0
+timm==1.0.8
+tokenizers==0.21.0
+torch==2.2.0+cpu
+torch-npu @ file:///tmp/torch_npu-2.2.0.post2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=db525f6f0b62f75c7cd8592ec55a13102f44eda246ef21a537223dd301e4a035
+torchaudio==2.2.0+cpu
+torchvision==0.17.0+cpu
+tqdm==4.66.5
+transformers==4.49.0
+transformers-stream-generator==0.0.5
+typing_extensions==4.12.2
+tzdata==2024.1
+uc-micro-py==1.0.3
+urllib3==1.26.13
+uvicorn==0.32.1
+XlsxWriter==3.2.0
+xxhash==3.4.1
+yarl==1.9.4

@@ -1,0 +1,4 @@
+/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/llavaqwen-1.8b-finetune-moe/dense|llavaqwen-1.8b-finetune_dense|mmvet
+/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/llavaqwen-1.8b-finetune-moe/dense|llavaqwen-1.8b-finetune_dense_chem|mmvet
+/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/llavaqwen-1.8b-finetune-moe/dense|llavaqwen-1.8b-finetune_dense_chem_math|mmvet
+/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/llavaqwen-1.8b-finetune-moe/dense|llavaqwen-1.8b-finetune_dense_chem_math_art|mmvet

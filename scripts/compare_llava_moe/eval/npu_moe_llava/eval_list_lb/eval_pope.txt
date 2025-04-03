@@ -1,0 +1,4 @@
+/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/llavaqwen-1.8b-finetune-moe/lb001|llavaqwen-1.8b-finetune-moe_lb001|pope
+/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/llavaqwen-1.8b-finetune-moe/lb001|llavaqwen-1.8b-finetune-moe_lb001_chem|pope
+/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/llavaqwen-1.8b-finetune-moe/lb001|llavaqwen-1.8b-finetune-moe_lb001_chem_math|pope
+/apdcephfs_nj7/share_1273717/yannhua/Home/moe/exps/llavaqwen-1.8b-finetune-moe/lb001|llavaqwen-1.8b-finetune-moe_lb001_chem_math_art|pope
